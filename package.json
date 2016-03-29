@@ -7,7 +7,23 @@
     "lite": "lite-server",
     "start": "concurrent \"npm run tsc:w\" \"npm run lite\" "
   },
-  "license": "ISC",
+  "keywords": [
+    "angular 2",
+    "ng-progress2",
+    "ngProgress2",
+    "angular2",
+    "progress",
+    "bar",
+"loading",
+"loadingbar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Empia/ngProgress2.git"
+  },
+  "author": "Stan Sobolev",
+  "license": "MIT",
+ "readmeFilename": "readme.md",
   "dependencies": {
     "angular2": "2.0.0-beta.2",
     "systemjs": "0.19.6",
